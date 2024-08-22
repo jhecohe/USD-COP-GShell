@@ -1,8 +1,8 @@
-# Dollar-PKR
+# Dollar-COP
 ```
-Gnome-Shell v.(43,44) Extension, for conversion of USD to TRY on the center of the top panel.
+Gnome-Shell v.(43,44) Extension, for conversion of USD to cop on the center of the top panel.
 ```
-This is extension is a modified  version of https://github.com/shoaibzs/Dollar-PKR-43 extension to show USD to TRY instead of USD to PKR. 
+This is extension is a modified  version of https://github.com/arifesat/USD-TRY-GShell extension to show USD to PKR instead of USD to COP. 
 ```
 # Licence
 ```
